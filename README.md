@@ -23,3 +23,8 @@ If we are talking about sequence semantics, one_hot_encoder sequence might also 
 
 ## To Play around
 If you want to check if it works on images or not, then probably better to hit Huggingspace where the model is hosted for now.
+
+project_folder/
+├── server.py
+├── index.html
+└── static/ 
